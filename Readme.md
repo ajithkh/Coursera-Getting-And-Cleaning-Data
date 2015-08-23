@@ -1,5 +1,5 @@
 ---
-title: "Getting and Cleaning Data "
+Title: "Getting and Cleaning Data "
 ---
 
 This repository contains work for the course project "Getting and Cleaning data".
