@@ -1,6 +1,5 @@
 ---
 title: "Getting and Cleaning Data "
-output: html_document
 ---
 
 This repository contains work for the course project "Getting and Cleaning data".
